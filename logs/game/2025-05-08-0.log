@@ -1,0 +1,13 @@
+2025-05-08 17:44:46.353[main]INFO  threadtutil.thread.ExecutorPool.<init> [init] thread pool size:32
+2025-05-08 17:44:49.396[Game_1]ERROR game.Game.lambda$initJar$6 initJar 2025-05-08
+2025-05-08 17:44:49.423[Game_1]INFO  utils.other.ExecCommand.exeCommand exeCommand:git log -1 --pretty=format:"%H" results:[b9e463886c2abdcd034afc05069f115d84d94f39] cost:25ms
+2025-05-08 17:44:49.423[Game_1]ERROR utils.GitJarManager.<init> [curr git head:b9e463886c2abdcd034afc05069f115d84d94f39]
+2025-05-08 17:44:49.443[Game_1]INFO  utils.other.ExecCommand.exeCommand exeCommand:git log -1 --pretty=format:"%H" results:[b9e463886c2abdcd034afc05069f115d84d94f39] cost:20ms
+2025-05-08 17:45:49.373[Game_3]ERROR game.Game.lambda$initJar$6 initJar 2025-05-08
+2025-05-08 17:45:49.416[Game_3]INFO  utils.other.ExecCommand.exeCommand exeCommand:git log -1 --pretty=format:"%H" results:[b9e463886c2abdcd034afc05069f115d84d94f39] cost:40ms
+2025-05-08 17:45:49.417[Game_3]ERROR utils.GitJarManager.<init> [curr git head:b9e463886c2abdcd034afc05069f115d84d94f39]
+2025-05-08 17:45:49.441[Game_3]INFO  utils.other.ExecCommand.exeCommand exeCommand:git log -1 --pretty=format:"%H" results:[b9e463886c2abdcd034afc05069f115d84d94f39] cost:23ms
+2025-05-08 17:46:49.360[Game_5]ERROR game.Game.lambda$initJar$6 initJar 2025-05-08
+2025-05-08 17:46:49.382[Game_5]INFO  utils.other.ExecCommand.exeCommand exeCommand:git log -1 --pretty=format:"%H" results:[b9e463886c2abdcd034afc05069f115d84d94f39] cost:22ms
+2025-05-08 17:46:49.383[Game_5]ERROR utils.GitJarManager.<init> [curr git head:b9e463886c2abdcd034afc05069f115d84d94f39]
+2025-05-08 17:46:49.401[Game_5]INFO  utils.other.ExecCommand.exeCommand exeCommand:git log -1 --pretty=format:"%H" results:[b9e463886c2abdcd034afc05069f115d84d94f39] cost:17ms
