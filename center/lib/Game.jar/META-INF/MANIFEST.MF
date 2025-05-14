@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Archiver-Version: Plexus Archiver
-Built-By: admin
-Class-Path: lib/proto-1.0-SNAPSHOT.jar lib/tool-1.0-SNAPSHOT.jar lib/u
- tils-1.0-SNAPSHOT.jar
-Created-By: Apache Maven 3.6.3
-Build-Jdk: 1.8.0_51
-Main-Class: game.Game
-
